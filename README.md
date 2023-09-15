@@ -16,6 +16,8 @@
 
 ## Septiempre - Diciembre
 
+## Descripcion:Práctica número 5 que presenta una interfaz simple y utiliza el widget statales personalizado con imagenes.
+
 
 
 
